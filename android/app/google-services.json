@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "858365196846",
+    "project_id": "gpdiphiladelphia",
+    "storage_bucket": "gpdiphiladelphia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858365196846:android:4571e7484908651b4b3dbf",
+        "android_client_info": {
+          "package_name": "com.yongenbisa.philadelphia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858365196846-eon28r9nbrnq7kk67p6bo8i07erc4i44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3etZHhDsB3CWFOYA7heFzi-JlTgXsP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858365196846-eon28r9nbrnq7kk67p6bo8i07erc4i44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858365196846:android:c0cd3b3bc2283bba4b3dbf",
+        "android_client_info": {
+          "package_name": "com.yongenbisa.philadelphia2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858365196846-eon28r9nbrnq7kk67p6bo8i07erc4i44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3etZHhDsB3CWFOYA7heFzi-JlTgXsP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858365196846-eon28r9nbrnq7kk67p6bo8i07erc4i44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
